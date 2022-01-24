@@ -7,7 +7,7 @@
   },
   "devDependencies": {
     "@types/jest": "27.0.3",
-    "@types/node": "16.11.12",
+    "@types/node": "16.11.21",
     "@typescript-eslint/eslint-plugin": "5.7.0",
     "@typescript-eslint/parser": "5.7.0",
     "eslint": "8.4.1",
@@ -36,6 +36,6 @@
     "tslib": "2.3.1"
   },
   "volta": {
-    "node": "16.13.0"
+    "node": "16.13.2"
   }
 }
